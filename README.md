@@ -1,0 +1,1 @@
+El codigo que se muestra es una pagina creada con animaciones en css, la cual mas que nada se quiere que llegue a niños para que asi puedan aprender mas, por ejmplo, sumar, multiplicar, dividir y fomenten la lectura
